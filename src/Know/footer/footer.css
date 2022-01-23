@@ -1,0 +1,15 @@
+.footer{
+    height: 80px;
+    padding-bottom: 150px;
+    background-color:  rgb(84, 0, 240);
+}
+
+.contact{
+    float: left;
+    padding-left: 15px;
+}
+
+
+.Follow_me>img{
+     height: 30px;
+}

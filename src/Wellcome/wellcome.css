@@ -1,0 +1,23 @@
+.wellcome{
+    background-color: black;
+    color: white;
+    position: relative;
+    
+}
+
+.wellcome>img{
+    height: 300px;
+    border: 10 solid  white;
+ 
+    border-radius: 50% 50% 53% 47% / 42% 44% 56% 58% ;
+}
+
+
+.back_div{
+    background-color: black;
+}
+
+h3{
+    color: rgb(84, 0, 240);
+    font-size: 30px;
+}

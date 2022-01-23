@@ -1,0 +1,32 @@
+.about_text{
+   background-color: rgb(84, 0, 240);
+   width: 50%;
+   height: 30%;
+   margin: auto;
+   margin-top: 15px;
+   border-radius: 15px;
+   box-shadow: 10px 10px 5px 0px rgba(122, 71, 216, 0.75);
+}
+.about>h1{
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.about_card{
+    background-color: rgb(84, 0, 240);
+    height: 50%;
+    width: 30%;
+    flex: 1;
+    margin: auto;
+    border-radius: 30% 70% 90% 10% / 30% 30% 70% 70% ;
+    box-shadow: 10px 10px 5px 0px rgba(122, 71, 216, 0.75);
+
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: large;
+    color: white;
+}
+

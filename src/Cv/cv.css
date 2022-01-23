@@ -1,0 +1,29 @@
+.cv{
+
+    margin-top: -50px;
+    
+}
+.cv>h1{
+    color: white;
+    font-size: 80px;
+    padding-bottom: 20px;
+}
+
+.cv>a{
+   background-color: blueviolet;
+   color: white;
+   padding: 10px;
+   border-radius: 10px;
+   font-size: 30px;
+   padding-bottom:10px ;
+   text-decoration: none;
+
+}
+
+
+.cv>a:hover{
+  cursor: pointer;
+  background-color: white;
+  color: blueviolet;
+
+}
