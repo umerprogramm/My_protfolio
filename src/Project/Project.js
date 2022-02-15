@@ -8,7 +8,7 @@ export default function Project() {
     <div className='project'>
 
   
-              <h1 data-aos='fade-left' >My <span style={{color : 'rgb(84, 0, 240)'}}>Project</span>  </h1>
+              <h1 data-aos='fade-right' >My <span style={{color : 'rgb(84, 0, 240)'}}>Project</span>  </h1>
  <section>
  <div className='about'>
 

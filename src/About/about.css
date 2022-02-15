@@ -15,11 +15,11 @@
 
 .about_card{
     background-color: rgb(84, 0, 240);
-    height: 50%;
-    width: 30%;
+    height: 100%;
+    width: 50%;
     flex: 1;
     margin: auto;
-    border-radius: 30% 70% 90% 10% / 30% 30% 70% 70% ;
+    border-radius: 100% 0% 39% 61% / 100% 0% 100% 0%   ;
     box-shadow: 10px 10px 5px 0px rgba(122, 71, 216, 0.75);
 
 }
@@ -30,3 +30,11 @@ p{
     color: white;
 }
 
+@media only screen and (max-width: 685px){
+    .about_card>img{
+        height: 300px;
+    }
+    .about_text{
+        width: 60%;
+    }
+}
