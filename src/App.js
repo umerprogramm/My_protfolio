@@ -5,7 +5,7 @@ import Wellcome from "./Wellcome/Wellcome";
 import Project from "./Project/Project";
 import About from "./About/About";
 import Know from "./Know/Know";
-import Footer from "./Know/footer/Footer";
+import Footer from "./footer/Footer";
 function App() {
   return (
     <div className="App">
